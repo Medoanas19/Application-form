@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<Title>Undergraduate degree</title>
+<head>
+  <body>
+    <div>
+    <h1>Application form to a Computer science degree<h1>
+      </div>
+      </head>
+       <section id="docs">
+  <div class="required-docs">
+  
+  <h3>Documents required</h3>
+  <p>The following is a list of all the materials that should be uploaded to complete the on-line application. We will not begin to consider your application until <strong>ALL</strong> the materials have been received. We are not always able to send you a letter indicating whether your application is complete or not; therefore, it is the responsibility of the applicant to ensure all their documents have been uploaded and can view their application status on-line.</p>
+    </section>
+         </div>
+      
+ 
+    <ul>
+      <li>An unofficial copy of your complete university-level academic record to date must be uploaded</li>
+      <li>If the transcript does not indicate that a degree has been conferred a copy of the degree certificate (diploma) will also have to be uploaded.</li>
+      <li>Transcripts in languages other than English or French must be accompanied by an English or French translation provided by the institution issuing the transcript or by a certified translator.</li>
+      
+    </ul>
+      <br><br>
+      <div class="container">
+      <label for="semester" id="Semester">Choose a semester:</label><br>
+      </div>
+        <input type="radio" name="semesterx">
+      <label for="semester">summer</label>
+      <input type="radio" id="semester2"> 
+      <label for="semester2">Winter</label>
+      <iput type="checkbox" id="semseter">
+        <input type="radio" id="semester3">
+        <label for="semester3">Fall</label>
+        <input type="radio" id="semester4">
+        <label for="semester4" name="semester4">Spring</label>
+        
+      <br><br>
+        <fieldset>
+          <div class="Info">
+        <span>PERSONAL INFORMATION</span><br><br>
+          
+      <label for="name">First Name:</label>
+      <input type="text" id="Name" name="student"><br><br>
+      <label for="Lname">Last name:</label>
+      <input type="text" id="name1" name="student"><br><br>
+        <label for="phone">Enter your Phone Number:</label>
+<input type="cell" id="phone" name="cellular"><br><br>
+        <label for="email">Preferred email address</label>
+<input type="email" id="email">
+        </fieldset>
+          </div>
+      <br><br>
+        <fieldset>
+          <div class="Levels">
+      <label for="Education" id="EDC">HIGHEST LEVEL OF EDUCATION:</label><br><br>
+        <input type="checkbox" name="Educ1" value="first level">
+  <label for="vehicle1"> I have a high school degree</label><br>
+  <input type="checkbox" name="Educ2" value="second level">
+  <label for="checkbox"> I have an associate degree</label><br>
+  <input type="checkbox" name="Educ3" value="Third level">
+  <label for="code"> I am self-taught</label>
+          <fieldset><br><br>
+      <label for="Coding">Coding languages you know:</label><br>
+      <input type="checkbox" name="Algo" value="Progr">
+      <label for="code1" name="lang">Java</label>
+      <input Type="checkbox" name="first lang">
+      <label for="code2" name="lang2">Javascript</label>
+      <input type="checkbox" name="second lang">
+      <label for="code3" name="third code">Python</label>
+      <input type="checkbox" name="fourth lang">
+      <label for="code4" name="fourth code">CSS</label><br><br>
+      
+  
+<label for="Campus">Choose a campus:</label>
+<select name="camp" id="best camp">
+<option value="firstcamp">Campus for advanced programmers</option>
+<option value="Second">Campus for intermediate programmers</option>
+<option value="Third">Campus for beginner programmers</option>
+</select>
+      <br>
+            <br>
+     
+      <label for="interest">Choose your area of interest:</label>
+<select name="majors" id="Bmajor">
+<optgroup label="Business and Computer science">
+<option value="Business">Business administration(BA) and computer science(BA)</option>
+<option value="Business">Actuarial science and computer science(BS)</option>
+<option value="Business">Economics and computer science(BS)</option>
+<option value="Business">finance and computer science(BS)</option><br>
+</optgroup>
+           
+  
+<optgroup label="certificate">
+<option value="certificate">certificate in computers and information technology</option>
+<option value="certificate">certificate in cybersecurity</option>
+<option value="certificate">certificate in data analytics</option>
+<option value="certificate">certificate in Information technology</option>
+<option value="certificate">certificate in network design implementation</option>
+<option value="certificate">certificate of Programmable Logic controllers (PLCs) and SCADA systems</option>
+  <option value="certificate">certificate in computer engineering</option>
+  <option value="certificate">certificate in mobile application development</option>
+  <option value="certificate">certificate in Network and security Architecture</option>
+  <option value="certificate">certificate in machine learning:Practical application online</option>
+  </optgroup>
+  
+  <optgroup label="Math and CS">
+    <option value="math">Mathematics and computer science(BS)</option>
+    <option value="math">Mathematics and statistics and computer science(BS)</option>
+    <option value="math">Applied science and mathematics(BS)</option>
+    <option value="math">computer science (BA)(BS)</option>
+  </optgroup>
+  
+  <optgroup label="MED">
+    <option value="Med and CS">Biology and computer science</option>
+    <option value="Med and CS">Biostatistics and  computer science</option>
+  </optgroup>
+            </select>
+            
+  <br>
+  <br>
+            <label for="more-info" id="info">additional information:</label>
+<textarea id="more" name="more-info" rows="8" cols="67">Tell us more about yourself...
+</textarea>
+            <br>
+           <div class="buttonHolder">
+  <input value="SUBMIT" title="submit" type="submit" id="btn"> 
+            <br>
+             <footer>2020-2021</footer>
+  
+             
+</div>
+            </body>
+          </html>
+ 
+    
+  
+ 
+      
+  
+
+
+  
+  
+  
+ 
+  
+  
+  
+      
+     
+      
+      
+      
+     
+      
+      
+
+  
